@@ -156,3 +156,5 @@ report/Report.pdf       submitted report
 *Course assignment (Foundations of Machine Learning). AI assistance on code
 and report was used and disclosed in the report, as permitted by the
 instructor.*
+
+MIT licensed.
