@@ -134,6 +134,8 @@ the separating; normalize-and-K-means is the safer general recipe.
 
 ## Run it
 
+Python 3.10+ (tested on 3.11 and 3.12).
+
 ```bash
 pip install numpy matplotlib
 python q1.py     # ~30 s  → writes q1*.png next to the script
